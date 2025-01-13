@@ -23,7 +23,7 @@ The dashboard offers visualizations that help understand performance metrics and
 ## Screenshots
 
 
-![Screenshot 2025-01-12 222517](https://github.com/user-attachments/assets/0cca7758-980f-4a27-89c5-0f2f80287710)
+![Screenshot 2025-01-12 222517](https://github.com/user-attachments/assets/bf83015f-ae45-49ff-add5-c5ce5a556244)
 
 
 ### Insights
